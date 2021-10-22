@@ -1,6 +1,5 @@
-<h1 align="center">hi. i'm bqini</h1>
+<h1 align="center">hi. i'm bqini</h1><img align="center" src="https://komarev.com/ghpvc/?username=bqini&color=red" alt="bqini">
 <p align="center">i'm a developer. i make stuff.</p>
-<img align="center" src="https://komarev.com/ghpvc/?username=bqini&color=red" alt="bqini">
 <p align="center"></p>
 <h2 align="center"></h2>
 <h3 align="center"></h3>
